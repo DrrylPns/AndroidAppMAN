@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:orientation="vertical"
+    android:background="#999">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="OJT"
+        android:textSize="40dp"
+        android:width="1000dp"
+        android:background="#ED553B"
+        android:padding="20px"
+        android:textStyle="bold"
+        android:textColor="#fff"
+
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Computer Programming"
+        android:background="#FC7978"
+        android:width="1000dp"
+        android:textColor="#fff"
+        android:textStyle="bold"
+        android:textSize="20dp"
+        android:id="@+id/ll_b_black"
+        android:padding="10dp" />
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Section"
+        android:textSize="50dp"
+        android:textStyle="bold"
+        android:background="#445c3c"
+        android:width="1000dp"
+        android:textColor="#fff"
+    />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Computer Programming 12-A"
+        android:background="#C9D99E"
+        android:padding="10dp"
+        android:width="1000dp"
+        android:textColor="#fff"
+        android:textSize="20dp" />
+
+    <TextView
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="Adviser"
+    android:textSize="50dp"
+        android:background="#9852f9"
+    android:textStyle="italic"
+        android:width="1000dp"
+        android:textColor="#fff"
+    />
+
+    <TextView
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="June S. Rabi"
+        android:background="#c299fc"
+        android:width="1000dp"
+        android:textColor="#fff"
+        android:padding="10dp"
+    android:textSize="20dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Names"
+        android:background="#6a1051"
+        android:textColor="#fff"
+        android:textSize="40dp"
+        android:width="1000dp"
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Charmaine Deliman"
+        android:width="1000dp"
+        android:background="#a05f96"
+        android:textColor="#fff"
+        android:padding="10dp"
+        android:textSize="20dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Abigael Julia Adrao"
+        android:background="#ffbbcc"
+        android:width="1000dp"
+        android:padding="10px"
+        android:textSize="20dp" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Jericho Castro"
+        android:background="#ffcccc"
+        android:width="1000dp"
+        android:padding="10px"
+        android:textSize="20dp" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Darryl Panis"
+        android:background="#ffddcc"
+        android:width="1000dp"
+        android:padding="10px"
+        android:textSize="20dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Mike Gester Sabuga"
+        android:background="#ffeecc"
+        android:width="1000dp"
+        android:padding="10px"
+        android:textSize="20dp" />
+
+
+
+
+
+
+
+</LinearLayout>
